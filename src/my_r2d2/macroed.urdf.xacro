@@ -1,0 +1,2 @@
+<param name="robot_description"
+  command="xacro --inorder '$(find pr2_description)/robots/pr2.urdf.xacro'" />
