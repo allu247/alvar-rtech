@@ -281,6 +281,5 @@
     <parent link="box"/>
     <child link="lens"/> 	
   </joint>  
-
 </robot>
 
